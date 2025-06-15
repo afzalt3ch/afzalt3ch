@@ -3,8 +3,9 @@
   <img src="https://raw.githubusercontent.com/afzalt3ch/banner.png/main/Gemini_Generated_Image_hb31fqhb31fqhb31.png" alt="Afzal T3ch Banner" width="100%"/>
 </p>
 
+<!-- Typing GIF -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Afzal+👋;Welcome+to+my+GitHub!" alt="Typing SVG" />
+  <img src="https://raw.githubusercontent.com/afzalt3ch/banner.png/main/typewriter.gif" alt="Typing Animation" />
 </p>
 
 
