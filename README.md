@@ -60,9 +60,9 @@
 
 ## 📬 Connect With Me
 
-- 📧 **Email**: your.afzalt3ch@gmail.com  
+- 📧 **Email:** &lt;a href="mailto:afzalt3ch@gmail.com">&lt;img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"/>&lt;/a> afzalt3ch@gmail.com 
 - 🌐 **Portfolio**: [coming soon]  
-- 💼 **LinkedIn**: (https://www.linkedin.com/in/afzal-h-0335b12a2/)
+- 💼 **LinkedIn:** &lt;a href="https://www.linkedin.com/in/afzal-h-0335b12a2/">&lt;img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/>&lt;/a>
 
 ---
 
