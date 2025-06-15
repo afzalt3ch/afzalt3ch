@@ -3,11 +3,10 @@
   <img src="https://raw.githubusercontent.com/afzalt3ch/banner.png/main/Gemini_Generated_Image_hb31fqhb31fqhb31.png" alt="Afzal T3ch Banner" width="100%"/>
 </p>
 
-<h1 align="center">
-  <a href="https://github.com/afzalt3ch">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Afzal+👋;Welcome+to+my+GitHub!" alt="Typing SVG" />
-  </a>
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Afzal+👋;Welcome+to+my+GitHub!" alt="Typing SVG" />
+</p>
+
 
 
 <p align="center">
