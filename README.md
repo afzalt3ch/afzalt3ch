@@ -1,8 +1,7 @@
 <!-- GitHub Profile Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/afzalt3ch/banner.png/main/Gemini_Generated_Image_hb31fqhb31fqhb31.png" alt="Afzal T3ch Banner"/>
+  <img src="https://raw.githubusercontent.com/afzalt3ch/banner.png/main/Gemini_Generated_Image_hb31fqhb31fqhb31.png" alt="Afzal T3ch Banner" width="100%"/>
 </p>
-
 
 <h1 align="center">Hi, I'm Afzal 👋</h1>
 
@@ -52,7 +51,9 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=afzalt3ch&show_icons=true&theme=radical&hide=issues" alt="Afzal's GitHub stats" />
+  <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=afzalt3ch&theme=radical" alt="GitHub Streak" />
+  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afzalt3ch&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
@@ -60,9 +61,15 @@
 
 ## 📬 Connect With Me
 
-- 📧 **Email:** &lt;a href="mailto:afzalt3ch@gmail.com">&lt;img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"/>&lt;/a> afzalt3ch@gmail.com 
-- 🌐 **Portfolio**: [coming soon]  
-- 💼 **LinkedIn:** &lt;a href="https://www.linkedin.com/in/afzal-h-0335b12a2/">&lt;img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/>&lt;/a>
+<p>
+  <a href="mailto:afzalt3ch@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/afzal-h-0335b12a2/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
 
 ---
 
