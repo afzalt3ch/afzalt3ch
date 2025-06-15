@@ -1,7 +1,8 @@
 <!-- GitHub Profile Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/afzalt3ch/afzalt3ch/main/banner.png" alt="Afzal T3ch Banner"/>
+  <img src="https://raw.githubusercontent.com/afzalt3ch/banner.png/main/ChatGPT%20Image%20Jun%2015%2C%202025%2C%2008_44_53%20PM.png" alt="Afzal T3ch Banner"/>
 </p>
+
 
 <h1 align="center">Hi, I'm Afzal 👋</h1>
 
