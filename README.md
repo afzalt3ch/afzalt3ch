@@ -60,9 +60,9 @@
 
 ## 📬 Connect With Me
 
-- 📧 **Email**: your.email@example.com  
+- 📧 **Email**: your.afzalt3ch@gmail.com  
 - 🌐 **Portfolio**: [coming soon]  
-- 💼 **LinkedIn**: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+- 💼 **LinkedIn**: [linkedin.com/in/your-profile](https://www.linkedin.com/in/afzal-h-0335b12a2/)
 
 ---
 
