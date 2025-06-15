@@ -1,55 +1,57 @@
-<h1 align="center">Hi there 👋, I'm Afzal</h1>
-<h3 align="center">Data Science | Machine Learning | Python Developer</h3>
+<!-- GitHub Profile Banner -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/afzalt3ch/afzalt3ch/main/banner.png" alt="Afzal T3ch Banner"/>
+</p>
+
+<h1 align="center">Hi, I'm Afzal 👋</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=afzalt3ch&label=Profile%20views&color=0e75b6&style=flat" alt="afzalt3ch" />
+  🚀 Data Science & ML Enthusiast | 💻 Full Stack Developer | 📊 Data Analyst<br>
+  Passionate about turning data into actionable insights and building impactful software.
 </p>
 
 ---
 
-### 🚀 About Me
-- 🔭 I’m currently working on real-world **Machine Learning** and **Data Analysis** projects  
-- 🌱 I’m focused on learning **Deep Learning**, **Data Visualization**, and **Model Deployment**  
-- 👯 I’m open to collaborating on **Data/ML Projects**, **Hackathons**, or **Freelance Work**  
-- 🧠 I love solving problems using **Python, Flask, Pandas, and Scikit-learn**  
-- ⚡ Fun fact: I'm always building something new to learn better  
+## 💼 About Me
+
+- 🔭 I’m currently working on **Machine Learning & Data Projects**
+- 🌱 I’m learning **Advanced ML, Power BI, and Deep Learning**
+- 💬 Ask me about **Python, Flask, ML, and Web Dev**
+- ⚡ Fun fact: I love simplifying complex problems into elegant solutions.
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-**Languages & Tools**  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy)
-![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=for-the-badge)
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+**Languages:**  
+`Python` | `JavaScript` | `HTML` | `CSS` | `SQL`
+
+**Libraries & Frameworks:**  
+`Pandas` | `NumPy` | `Matplotlib` | `Scikit-learn` | `PyTorch` | `Flask`
+
+**Tools & Platforms:**  
+`Jupyter` | `Power BI` | `Git` | `VS Code` | `Colab`
 
 ---
 
-### 📊 GitHub Stats
+## 📈 Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=afzalt3ch&show_icons=true&theme=github_dark" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afzalt3ch&layout=compact&theme=github_dark" height="170" />
-</p>
+- 🔍 **Walmart Sales Analysis** – Uncovering insights with Python & Power BI  
+- 🤖 **Sign Language Detection** – Real-time gesture recognition using PyTorch & Flask  
+- 🎨 **Website Builder** – Drag-and-drop builder made with PyQt5  
+- 📊 **Unemployment Analysis** – Cleaned & visualized trends using Power BI  
+- 🤝 **CRM Chatbot** – DistilBERT-based chatbot with custom intent handling
 
----
-
-### 📫 Connect with Me
-<p align="left">
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
+[👉 View All Projects](https://github.com/afzalt3ch?tab=repositories)
 
 ---
 
-### ⚒️ Projects Coming Soon
-- 🌐 CRM Chatbot with NLP
-- 📊 Walmart Sales Insights
-- 👋 Sign Language to Text Converter
-- 🤖 Emotion Recognition App
+## 📬 Connect With Me
+
+- 📧 **Email**: your.afzalt3ch@gmail.com  
+- 🌐 **Portfolio**: [coming soon]  
+- 💼 **LinkedIn**: [linkedin.com/in/your-profile](https://www.linkedin.com/in/afzal-h-0335b12a2/)
+
+---
+
+<p align="center">Made with ❤️ by Afzal T3ch</p>
