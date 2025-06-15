@@ -6,7 +6,8 @@
 <h1 align="center">Hi, I'm Afzal 👋</h1>
 
 <p align="center">
-  🚀 Data Science & ML Enthusiast | 💻 Full Stack Developer | 📊 Data Analyst<br>
+  🚀 Data Science & ML Enthusiast | 💻 Full Stack Developer | 📊 Data Analyst  
+  <br>
   Passionate about turning data into actionable insights and building impactful software.
 </p>
 
@@ -42,15 +43,25 @@
 - 📊 **Unemployment Analysis** – Cleaned & visualized trends using Power BI  
 - 🤝 **CRM Chatbot** – DistilBERT-based chatbot with custom intent handling
 
-[👉 View All Projects](https://github.com/afzalt3ch?tab=repositories)
+👉 [View All Projects](https://github.com/afzalt3ch?tab=repositories)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=afzalt3ch&show_icons=true&theme=radical&hide=issues" alt="Afzal's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=afzalt3ch&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afzalt3ch&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ---
 
 ## 📬 Connect With Me
 
-- 📧 **Email**: your.afzalt3ch@gmail.com  
+- 📧 **Email**: your.email@example.com  
 - 🌐 **Portfolio**: [coming soon]  
-- 💼 **LinkedIn**: [linkedin.com/in/your-profile](https://www.linkedin.com/in/afzal-h-0335b12a2/)
+- 💼 **LinkedIn**: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
 
 ---
 
