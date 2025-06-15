@@ -62,7 +62,7 @@
 
 - 📧 **Email**: your.afzalt3ch@gmail.com  
 - 🌐 **Portfolio**: [coming soon]  
-- 💼 **LinkedIn**: [linkedin.com/in/your-profile](https://www.linkedin.com/in/afzal-h-0335b12a2/)
+- 💼 **LinkedIn**: (https://www.linkedin.com/in/afzal-h-0335b12a2/)
 
 ---
 
